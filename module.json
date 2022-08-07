@@ -3,7 +3,7 @@
   "title": "Witchdice Foundry Bot",
   "description": "Mirrors rolls made in a Witchdice room to the Foundry chat.",
   "authors": [
-    { "name": "wickworks", "email": "olive+foundry@wick.works", }
+    { "name": "wickworks", "email": "olive+foundry@wick.works" }
     ],
   "version": "0.0.1",
   "compatibility": {
