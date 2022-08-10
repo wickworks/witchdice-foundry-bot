@@ -1,5 +1,6 @@
 {
   "id": "witchdice-foundry-bot",
+  "name": "witchdice-foundry-bot",
   "title": "Witchdice Foundry Bot",
   "description": "Mirrors rolls made in a Witchdice room to the Foundry chat.",
   "authors": [
@@ -10,7 +11,11 @@
     "minimum": "9",
     "verified": "10"
   },
+  "minimumCoreVersion": "0.8.8",
   "esmodules": [
-    "scripts/helloWorld.js"
+    "scripts/roomConnect.js"
+  ],
+  "styles": [
+    "styles/roomConnect.css"
   ]
 }
